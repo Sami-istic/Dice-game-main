@@ -1,5 +1,5 @@
 # Dice-game
-Example of Dice game using Vanilla JavaScript 
+Example of Dice game using JavaScript 
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/78321649/141338216-bbb5299f-7b4d-4ed6-bd24-4c69e8204030.png)
